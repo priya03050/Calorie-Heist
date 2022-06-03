@@ -54,7 +54,7 @@ Project For Avishkar 2021.
 > PORT = 8000
 > SECRET = *****
 
-5. If running on a server or hosting platform add the DATABASE with connection string to the environment variables.
+5. if running on a server or hosting platform add the DATABASE with connection string to the environment variables.
 
 6. If needed seed the MongoDB database by running npm run seed.
 
