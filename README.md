@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JainendraDwivedi/NirAmaya">
+  <a href="https://github.com/priya03050/NirAmaya">
     *NirAmaya*
      
 <!--     <img src="/public/images/LOGO MAIN.png" alt="Logo"> -->
@@ -40,7 +40,7 @@ Project For Avishkar 2021.
 
 ## Installation
 
-1. Clone this GitHub repository - [NirAmaya](https://github.com/JainendraDwivedi/NirAmaya)
+1. Clone this GitHub repository - [NirAmaya](https://github.com/priya03050/NirAmaya)
 
 2. Install all dependent npm packages
 
